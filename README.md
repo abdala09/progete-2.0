@@ -1,1 +1,1 @@
-# progete-2.0
+# pseudocódigo-2.0
